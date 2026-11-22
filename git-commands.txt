@@ -1,0 +1,16 @@
+git logs --
+    9  git log --
+   10  git status
+   11  git list
+   12  git log
+   13  ls -a
+   14  git status
+   15  git status
+   16  git add testing.py
+   17  git status
+   18  git rm --cached testing.py
+   19  git status
+   20  git add testing.py
+   21  git commit -m testing.py
+   22  git status
+   23  git historygit
